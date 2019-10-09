@@ -7,5 +7,5 @@ update_configs:
       prefix: "[dependabot] "
     automerged_updates:
       - match:
-        dependency_type: "all"
-        update_type: "all"
+          dependency_type: "all"
+          update_type: "all"
